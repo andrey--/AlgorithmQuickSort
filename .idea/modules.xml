@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AlgorithmInversion/AlgorithmInversion.iml" filepath="$PROJECT_DIR$/../AlgorithmInversion/AlgorithmInversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlgorithmQuickSort.iml" filepath="$PROJECT_DIR$/AlgorithmQuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AlgorithmRandomizedContraction/AlgorithmRandomizedContraction.iml" filepath="$PROJECT_DIR$/../AlgorithmRandomizedContraction/AlgorithmRandomizedContraction.iml" />
     </modules>
   </component>
 </project>
